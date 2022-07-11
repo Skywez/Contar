@@ -1,0 +1,58 @@
+
+th {
+    background-color: #034C8C;
+    
+}
+
+tr:nth-of-type(odd) {
+    background: #5eadf1
+;
+    color: white;
+    font-weight: bold;
+    width: 70%;
+}
+
+tr:nth-of-type(even) {
+    background: #BBBDF2;
+    color: white;
+    font-weight: bold;
+    width: 70%;
+}
+
+#botao {
+background: #72adc9;
+border-radius: 5px;
+border: 1px solid #333;
+color: #fff;
+height: 30px;
+width: 53px;
+
+}
+#Arquivo{
+
+    background: #72adc9;
+    border-radius: 5px;
+    border: 1px solid #333;
+    color: #fff;
+    width: 60%;
+}
+
+.file_customizada::-webkit-file-upload-button {
+    visibility: hidden;
+
+  }
+
+  #Label{
+    padding: 1px;
+    width: 32%;
+ 
+  }
+
+  #story{
+color: #72adc9;
+  }
+
+
+  input[type="text"], textarea {
+    background-color : #72adc9; 
+  }
